@@ -1,0 +1,2 @@
+# shopRu
+for local traders
